@@ -17,7 +17,7 @@ I enjoy developing websites from scratch using HTML, CSS, and JavaScript.
 Furthermore, I am capable of writing code that utilizes data structures, object-oriented programming, integration with various APIs, and more.
 
 My main interests lie in software engineering and web development. However, I am quite open to exploring new areas in tech.
-<h3 align="center"><i>Check out my <a href="[https://github.com/UDogg?tab=repositories](https://github.com/TomisinSalu?tab=repositories)" target="_blank">Projects</a>!</i></h3>
+<h3 align="center"><i>Check out my <a href="https://github.com/TomisinSalu?tab=repositories" target="_blank">Projects</a>!</i></h3>
 
 
 </p>
@@ -80,11 +80,13 @@ My main interests lie in software engineering and web development. However, I am
         <td>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UDogg&layout=compact&theme=tokyonight&hide_border=true">
         </td>
-    -->
+ 
     </tr>
+<!--    
 </table>
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=UDogg&theme=radical&show_icons=true&count_private=true&hide=issues,contribs)](https://github.com/UDogg/github-readme-stats"</p>
 <p align="center">
   <img src="https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg" />
 </p>
+   -->
