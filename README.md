@@ -17,7 +17,7 @@ I enjoy developing websites from scratch using HTML, CSS, and JavaScript.
 Furthermore, I am capable of writing code that utilizes data structures, object-oriented programming, integration with various APIs, and more.
 
 My main interests lie in software engineering and web development. However, I am quite open to exploring new areas in tech.
-<h3 align="center"><i>Check out my <a href="https://github.com/UDogg?tab=repositories" target="_blank">Projects</a>!</i></h3>
+<h3 align="center"><i>Check out my <a href="[https://github.com/UDogg?tab=repositories](https://github.com/TomisinSalu?tab=repositories)" target="_blank">Projects</a>!</i></h3>
 
 
 </p>
