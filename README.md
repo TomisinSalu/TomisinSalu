@@ -7,7 +7,7 @@
 <h2 align="center">
     
 <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50">
-    <p align="center"><a href="https://ucswebsite.netlify.app/" target="_blank"><img width="80%" alt="Hello, I'm UC, aspring Full-Stack developer!" src="https://see.fontimg.com/api/renderfont4/BxYl/eyJyIjoiZnMiLCJoIjo4NiwidyI6MjAwMCwiZnMiOjQzLCJmZ2MiOiIjRkZGRkZGIiwiYmdjIjoiIzM1M0Q0QiJ9/SGksIEkgYW0gVUMsIGFzcGlyaW5nIGRldmVsb3Blci4/dirtyboy.png" /></a></p>
+    <p align="center"><a href="https://ucswebsite.netlify.app/" target="_blank"><img width="80%" alt="Hello, I'm Tomisin Salu, Full-Stack developer!" src="https://see.fontimg.com/api/renderfont4/BxYl/eyJyIjoiZnMiLCJoIjo4NiwidyI6MjAwMCwiZnMiOjQzLCJmZ2MiOiIjRkZGRkZGIiwiYmdjIjoiIzM1M0Q0QiJ9/SGksIEkgYW0gVUMsIGFzcGlyaW5nIGRldmVsb3Blci4/dirtyboy.png" /></a></p>
    
    </h2>
 <h3 align="center"><i>I am a student at Penn State (Check out my <a href="https://www.linkedin.com/in/tomisin-salu-173327210/" target="_blank">LinkedIn Profile</a>!)</i></h3>
