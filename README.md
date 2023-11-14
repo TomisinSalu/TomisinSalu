@@ -1,8 +1,8 @@
 ![](assets/Bottom_up.svg)
 
-<!--   my-ticker -->
+<!--   my-ticker 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Utkarsh+Choudhary;he/him/his;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;I+am+always+learning+new+things+;NLP+and+Full+Stack+Development+enthusiast+;Student+at+Penn+State+University)](https://git.io/typing-svg)
-
+-->
 
 <h2 align="center">
     
@@ -67,7 +67,7 @@ My main interests lie in software engineering and web development. However, I am
             <img style="width: 46px; height: 46px" src="assets/visualstudiocode.svg" alt="Visual Studio Code">
         </td>
     </tr>
-    
+<!--    
 <table align="center">
     <tr>
         <th><i>My GitHub Stats</i></th>
@@ -80,6 +80,7 @@ My main interests lie in software engineering and web development. However, I am
         <td>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UDogg&layout=compact&theme=tokyonight&hide_border=true">
         </td>
+    -->
     </tr>
 </table>
 <p align="center">
