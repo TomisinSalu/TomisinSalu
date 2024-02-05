@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tomisin Salu</h1>
-<h3 align="center">I am passionate about engineering software that simplifies our complex lives</h3>
+<h3 align="center">I am passionate about engineering software that simplifies our complex lives!</h3>
 
 - 👯 I’m looking to collaborate on **open source projects**
 
 - 📫 How to reach me **salutomisin@gmail.com**
+
+- ⚡ Fun fact **I am a big fan of self-help book.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
