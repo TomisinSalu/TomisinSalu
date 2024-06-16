@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **salutomisin@gmail.com**
 
-- ⚡ Fun fact **I am a big fan of self-help book.**
+- ⚡ Fun fact **I am a big fan of self-help books.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
